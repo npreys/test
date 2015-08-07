@@ -1,0 +1,10 @@
+---
+name: test_template
+description: testing panamax bugs
+keywords: ''
+type: Default
+documentation: ''
+images:
+- name: nathonfowlie_centos-jre_latest
+  source: nathonfowlie/centos-jre:latest
+  type: Default
